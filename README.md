@@ -1,4 +1,4 @@
-# -student-management-system
+# student-management-system
 Hello, I am super excited to review and deepen my programming skills through projects, Today I am focusing on structures and file handling, by developing a student management system. I am again excited to document to you what it can do.
 
 ---
